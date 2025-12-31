@@ -1,8 +1,8 @@
-📊 Marketing Campaign Performance & Customer Behavior – Power BI
+## 📊 Marketing Campaign Performance & Customer Behavior – Power BI
 
 Analyze marketing campaign efficiency and customer engagement to uncover high-performing campaigns, customer segments, and data-driven optimization opportunities.
 
-📌 Overview
+## 📌 Overview
 
 This Power BI project analyzes a multi-channel marketing campaign dataset to evaluate campaign performance and customer behavior using realistic business metrics.
 
@@ -16,7 +16,7 @@ Which customer segments show stronger engagement with campaigns?
 
 How can marketing strategies be optimized based on performance insights?
 
-🔍 Key Insights
+## 🔍 Key Insights
 1️⃣ Campaign Efficiency Analysis
 
 One campaign clearly outperforms others based on a balanced combination of high Conversion Rate and low Cost per Conversion.
@@ -39,7 +39,7 @@ Campaigns were ranked from best to worst using a composite efficiency metric.
 
 This ranking enables clear prioritization of campaigns for future investment and optimization.
 
-🛠 Tools & Skills
+## 🛠 Tools & Skills
 
 Power BI Desktop
 
@@ -51,27 +51,26 @@ Data Modeling
 
 Marketing Performance Analysis
 
-📂 Dataset
+## 📂 Dataset
 
-The dataset consists of three CSV tables:
+Dim-Customers
 
-Customers.csv
+Dim-Campaigns
 
-Campaigns.csv
+Fact-Interactions
 
-Interactions.csv
+All data tables are included in the `Dataset` folder as an Excel file.
 
-All data is synthetic but designed to be realistic and business-oriented, suitable for analytical projects.
+## 📷 Dashboard Preview
 
-📷 Dashboard Preview
+Here are screenshots of the dashboard:
 
-Screenshots of the dashboard pages and data model are included in the Screenshots folder.
+![Page 1](Screenshots/Page1.jpg)
+![Page 2](Screenshots/Page2.jpg)
+![Page 3](Screenshots/Page3.jpg)
+![Data Model 3](Screenshots/Data_Model.jpg)
 
-📦 Full Project
+## 📦 Full Project
 
-The complete Power BI project file is available as:
-Marketing_Campaign_Performance.pbix
+The complete Power BI project file is available as: `Marketing_Campaign_Performance.pbix `
 
-🔑 Key Takeaway
-
-This project demonstrates how a single dataset can be transformed into actionable marketing insights by combining thoughtful KPIs, clean data modeling, and clear business questions.
